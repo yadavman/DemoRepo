@@ -1,4 +1,4 @@
-console.log("Unit testing with NodeUnit Module");
+console.log("Git Demo");
 
 module.exports = {
 
